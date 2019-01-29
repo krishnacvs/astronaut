@@ -1,2 +1,0 @@
-# astronaut
-Created with CodeSandbox

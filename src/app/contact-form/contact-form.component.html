@@ -1,0 +1,5 @@
+<div>Add Contact</div>
+<form #f="ngForm" (ngSubmit)="onSubmit(f)" novalidate>
+  <input name="name" ngModel /> <input name="email" ngModel />
+  <button>Submit</button>
+</form>
